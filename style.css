@@ -344,7 +344,7 @@ header ul li a img.cart {
 }
 #about {
 	background: #F8FAFC;
-	padding: 70px;
+	padding: 70px 0;
 }
 #about section.about {
 	height: 100%;
@@ -377,7 +377,7 @@ header ul li a img.cart {
 }
 #about section.about div.body ul {
 	display: flex;
-	gap: 24px;
+	gap: 32px;
 	width: 100%;
 }
 #about section.about div.body ul li {
