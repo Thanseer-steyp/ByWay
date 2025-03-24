@@ -363,13 +363,13 @@ header ul li a img.cart {
 }
 #about section.about div.head div.right {
 	display: flex;
-	gap: 24px;
-	width: 136px;
-	height: 40px;
+	justify-content: space-between;
+	width: 200px;
+	height: 50px;
 }
 #about section.about div.head div.right img {
 	background: #94A3B8;
-	padding: 12px 23px;
+	padding: 12px 32px;
 	border-radius: 8px;
 }
 #about section.about div.body {
@@ -377,7 +377,7 @@ header ul li a img.cart {
 }
 #about section.about div.body ul {
 	display: flex;
-	gap: 32px;
+	justify-content: space-between;
 	width: 100%;
 }
 #about section.about div.body ul li {
